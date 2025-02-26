@@ -1,0 +1,11 @@
+Models,Accuracies,,,,,,
+FlauBERTsmall,0.805,,,,,0.794,[2]
+DistilBERT,0.605,,,,,0.626,[4]
+CamemBERTbase,0.534,,,,,0.546,[8]
+mBERTbase,0.516,,,,,[9-10],
+mBERTbase,0.552,,,,,0.537,[9-10]
+FlauBERTbase,0.59,,,,,[6],
+FlauBERTbase,0.669,,,,,0.655,[3]
+XLM-Rbase,0.557,,,,,0.565,[7]
+FlauBERTlarge,0.895,,,,,0.905,[1]
+XLM-Rlarge,0.575,,,,,0.6,[5]
